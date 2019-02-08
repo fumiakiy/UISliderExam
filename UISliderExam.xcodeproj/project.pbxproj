@@ -13,6 +13,7 @@
 		A58E1D69220E0A5B002CECCE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A58E1D68220E0A5B002CECCE /* Assets.xcassets */; };
 		A58E1D6C220E0A5B002CECCE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A58E1D6A220E0A5B002CECCE /* LaunchScreen.storyboard */; };
 		A58E1D77220E0A5B002CECCE /* UISliderExamTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A58E1D76220E0A5B002CECCE /* UISliderExamTests.swift */; };
+		A58E1D82220E1529002CECCE /* VerticalSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = A58E1D81220E1529002CECCE /* VerticalSlider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		A58E1D72220E0A5B002CECCE /* UISliderExamTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UISliderExamTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A58E1D76220E0A5B002CECCE /* UISliderExamTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UISliderExamTests.swift; sourceTree = "<group>"; };
 		A58E1D78220E0A5B002CECCE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A58E1D81220E1529002CECCE /* VerticalSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerticalSlider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				A58E1D68220E0A5B002CECCE /* Assets.xcassets */,
 				A58E1D6A220E0A5B002CECCE /* LaunchScreen.storyboard */,
 				A58E1D6D220E0A5B002CECCE /* Info.plist */,
+				A58E1D81220E1529002CECCE /* VerticalSlider.swift */,
 			);
 			path = UISliderExam;
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 			files = (
 				A58E1D64220E0A5A002CECCE /* ViewController.swift in Sources */,
 				A58E1D62220E0A5A002CECCE /* AppDelegate.swift in Sources */,
+				A58E1D82220E1529002CECCE /* VerticalSlider.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
